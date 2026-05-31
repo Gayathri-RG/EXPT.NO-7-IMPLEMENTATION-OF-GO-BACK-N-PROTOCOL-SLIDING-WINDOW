@@ -14,6 +14,7 @@ Personal Computer Turbo C Compiler
 
 # PROGRAM
 
+```
 #include <stdio.h>
 /* Assume 7 frames of data are to sent using GO BACK N ARQW*/ #define window_size 4
 void main()
@@ -41,9 +42,11 @@ printf("No Acknowlegement for frame %d... \n",ack); printf("Resending frames sta
 printf("\n All frames sent successfully.\n");
 }
 
+```
 # OUTPUT
 
- 
+ <img width="1541" height="1099" alt="image" src="https://github.com/user-attachments/assets/814d768c-373a-46f9-a3ce-b73f6760ac18" />
+
 
 
 
